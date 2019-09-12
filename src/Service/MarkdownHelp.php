@@ -32,7 +32,7 @@ class MarkdownHelp
 
     public function parse(string $art):string {
 
-        if(stripos($art, 'shank')!==false){
+        if(stripos($art, 'shank') !==false ){
             $this->logger->info('shank');
         }
 
