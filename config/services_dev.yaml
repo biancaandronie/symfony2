@@ -1,0 +1,2 @@
+parameters:
+    cache_ada: 'cache.adapter.filesystem'
